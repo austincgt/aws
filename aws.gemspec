@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{aws}
+  s.name = %q{gotime_aws}
   s.version = "2.5.6"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   ]
   s.files = [
     "lib/acf/acf_interface.rb",
-    "lib/aws.rb",
+    "lib/gotime_aws.rb",
     "lib/awsbase/aws_response_array.rb",
     "lib/awsbase/awsbase.rb",
     "lib/awsbase/benchmark_fix.rb",

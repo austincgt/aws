@@ -1,4 +1,4 @@
-require_relative "../awsbase/awsbase"
+# require_relative "../awsbase/awsbase"
 module Aws
 
   require 'xmlsimple'
